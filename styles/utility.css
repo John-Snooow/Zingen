@@ -12,11 +12,11 @@ padding-block: var(--py-base) ;
 .px-lg{
     padding-inline: var(--px-lg) ;
     }
-container{
+.container{
     --max-width: 375px;
     width: min(var(--max-width), 100% - var(--px-lg) *2);
     margin-inline: auto;
-    /*border: 1px solid  violet;teste*/
+    /* border: 1px solid  violet;teste */
 }
 
 .desktop-only{/*pra quando eu estiver no mobile a div vai sumir*/
