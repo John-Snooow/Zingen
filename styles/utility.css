@@ -13,10 +13,10 @@ padding-block: var(--py-base) ;
     padding-inline: var(--px-lg) ;
     }
 container{
-    --max-width: 375px
+    --max-width: 375px;
     width: min(var(--max-width), 100% - var(--px-lg) *2);
     margin-inline: auto;
-    border: 1px solid  violet;/*teste*/
+    /*border: 1px solid  violet;teste*/
 }
 
 .desktop-only{/*pra quando eu estiver no mobile a div vai sumir*/
@@ -32,8 +32,16 @@ container{
     display: flex;
 }
 
+.items-center{
+    align-items: center;
+}
+
 .gap-1{
     gap: 1rem;
+}
+
+.gap-1\.5{ /*o ponto entre o um e o cinco é identificado como uma class, por isso é recomendado colocar o contra barra para o cod. ser valido como um texto*/
+    gap: 1.5rem;
 }
 
 .grid{
