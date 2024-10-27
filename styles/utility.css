@@ -23,7 +23,7 @@ padding-block: var(--py-base) ;
     display: none;
 }
 
-.even-colluns{/*colunas contantes para mobile*/
+.even-columns{/*colunas contantes para mobile*/
     display: grid;
     gap: 1rem;
 }
