@@ -11,11 +11,11 @@
 
     border-radius: .5rem;
 
-    font: var(--wf-base) var(--fs-base) /1.5rem var(--ff-sans);
+    font: var(--wf-md) var(--fs-base) /1.5rem var(--ff-sans);
     cursor: pointer;
 
     background: var(--btn-bg-color);
-    color: var(--bg-color);
+    color: var(--btn-color);
 }
 
 .btn:hover{
