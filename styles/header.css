@@ -1,5 +1,5 @@
-header{
-    & a:first-child{
-        margin-right: auto;/*vai preencher o espaço da direita da logo*/
+header {
+    & a:first-child {
+          margin-right: auto;
     }
 }
