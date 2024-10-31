@@ -9,3 +9,5 @@
 @import url(cards.css);
 @import url(features.css) (width >= 80rem);/*uma regra para chamar esta config só para as telas G*/
 @import url(pricing.css);/*uma regra para chamar esta config só para as telas G*/
+@import url(download.css);/*uma regra para chamar esta config só para as telas G*/
+@import url(footer.css);/*uma regra para chamar esta config só para as telas G*/
