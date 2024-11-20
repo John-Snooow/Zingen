@@ -1,5 +1,6 @@
 #about{
     background-color: var(--surface-color);
+    padding: 80px 32px;
 
     & .even-colums{
         gap: 2rem;
